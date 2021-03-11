@@ -1,9 +1,10 @@
 
 # CSIE / IT / Software Develop Online Course Info
+
 ###### tags: `CSIE` `IT` `Online Courses` `Coursera`
 I created this document to organize courses I wanted to learn on Coursera in Summer 2020.
 
-After I'm a homeschooled student, I decided to put my CSIE and programming learning progress and more courses from OCW and other learning websites.
+After I'm a homeschooled student, I decided to put my CSIE and programming learning progress, more courses from OCW and other learning websites.
 
 I'm not good at English. Please send PR if there is anything wrong.
 ## 課程安排 / Study Plan
