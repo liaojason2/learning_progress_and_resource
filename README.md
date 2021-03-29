@@ -8,23 +8,29 @@ After I'm a homeschooled student, I decided to put my CSIE and programming learn
 
 I'm not good at English. Please send PR if there is anything wrong.
 ## 課程安排 / Study Plan
-### 現在 / Now
+### 現在 / In Progress
 #### Spring 2021
 - Introducing to Cybersecurity / NTUST
 - Programming for Embedded Systems / NTUST
 - [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation)
     - [Using Python to Interact with the Operating System](https://www.coursera.org/learn/python-operating-system)
+        - Plan to finish at April 12
 - [Full-Stack Web Development with React Specialization](https://www.coursera.org/specializations/full-stack-react)
     - [Front-End Web UI Frameworks and Tools: Bootstrap 4](https://www.coursera.org/learn/bootstrap-4)
+        - Plan to finish at April 5
+        - Delayed to April 19
     - [Front-End Web Development with React](https://www.coursera.org/specializations/full-stack-react)
+        - Plan to finish at May 15
 ### 未來 / Future
 #### Summer 2021
 - [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation)
     - [Troubleshooting and Debugging Techniques](https://www.coursera.org/learn/troubleshooting-debugging-techniques?specialization=google-it-automation#syllabus)
+    - Plan to finish at Jun 30
 - [Swift 5 iOS Application Developer Specialization](https://www.coursera.org/specializations/swift-5-ios-app-developer)
     - [Introduction to Programming in Swift 5](https://www.coursera.org/learn/swift-5-programming-introduction)
 - [Full-Stack Web Development with React Specialization](https://www.coursera.org/specializations/full-stack-react)
     - [Server-side Development with NodeJS, Express and MongoDB](https://www.coursera.org/specializations/full-stack-react)
+    - Plan to finish at Jun 30
 - [Computer Architecture](https://www.coursera.org/learn/comparch)
 #### Fall 2021
 - [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation)
@@ -51,8 +57,11 @@ I'm not good at English. Please send PR if there is anything wrong.
     - [Fundamentals of Network Communication](https://www.coursera.org/learn/fundamentals-network-communications)
 - Memory & CPU Management
     - [Introduction to Pointers and Memory Management in C/C++](https://www.coursera.org/projects/introduction-to-pointers-and-memory-in-c-and-cpp)
-- Swift
-    - [Swift 5 iOS Application Developer Specialization](https://www.coursera.org/specializations/swift-5-ios-app-developer)
+- Progrmming Language
+    - Kotlin
+        - [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course?utm_source=gDigital&utm_medium=website&utm_campaign=gwgsite-gDigitial-ownedemail-marchannouncement-)
+    - Swift
+        - [Swift 5 iOS Application Developer Specialization](https://www.coursera.org/specializations/swift-5-ios-app-developer)
 - Google IT Certificate
     - [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
     - [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation)
