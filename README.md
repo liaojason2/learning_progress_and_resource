@@ -2,37 +2,36 @@
 # CSIE / IT / Software Develop Online Course Info
 
 ###### tags: `CSIE` `IT` `Online Courses` `Coursera`
-I created this document to organize courses I wanted to learn on Coursera in Summer 2020.
+This document organize courses on Coursera I wanted to learn, created in Summer 2020.
 
-After I'm a homeschooled student, I decided to put my CSIE and programming learning progress, more courses from OCW and other learning websites.
+I decided to put my CSIE and programming learning progress in this documents after I unschooled.
 
 I'm not good at English. Please send PR if there is anything wrong.
 ## 課程安排 / Study Plan
 ### 現在 / In Progress
-#### Spring 2021
+#### Learning Goal
+- Learning Reverse Engineering and Penetration.
+- Known all of the knowledge and skill of a Full-stack Engineer.
+- Discover new helpful tool for develop. (Container, CI/CD)
+- Intro to developing Mobile app.
+#### Spring / Summer 2021
 - Introducing to Cybersecurity / NTUST
 - Programming for Embedded Systems / NTUST
-- [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation)
-    - [Using Python to Interact with the Operating System](https://www.coursera.org/learn/python-operating-system)
-        - Plan to finish at April 12
-- [Full-Stack Web Development with React Specialization](https://www.coursera.org/specializations/full-stack-react)
-    - [Front-End Web UI Frameworks and Tools: Bootstrap 4](https://www.coursera.org/learn/bootstrap-4)
-        - Plan to finish at April 5
-        - Delayed to April 19
-    - [Front-End Web Development with React](https://www.coursera.org/specializations/full-stack-react)
-        - Plan to finish at May 15
+- [Front-End Web UI Frameworks and Tools: Bootstrap 4](https://www.coursera.org/learn/bootstrap-4)
+    - Plan to finish at April 5
+    - Delayed to May 10
+- [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
+    - [Android Study Jams](https://events.withgoogle.com/android-study-jam-twhk-2021/)
+- [Front-End Web Development with React](https://www.coursera.org/learn/front-end-react)
+- [Front-End JavaScript Frameworks: Angular](https://www.coursera.org/learn/angular#instructors)
+- [Server-side Development with NodeJS, Express and MongoDB](https://www.coursera.org/specializations/full-stack-react)
+    - Plan to finish at July 31
+- [計算機概論](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/101S210)
+- [Troubleshooting and Debugging Techniques](https://www.coursera.org/learn/troubleshooting-debugging-techniques?specialization=google-it-automation#syllabus)
 ### 未來 / Future
-#### Summer 2021
-- [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation)
-    - [Troubleshooting and Debugging Techniques](https://www.coursera.org/learn/troubleshooting-debugging-techniques?specialization=google-it-automation#syllabus)
-    - Plan to finish at Jun 30
+#### Fall 2021
 - [Swift 5 iOS Application Developer Specialization](https://www.coursera.org/specializations/swift-5-ios-app-developer)
     - [Introduction to Programming in Swift 5](https://www.coursera.org/learn/swift-5-programming-introduction)
-- [Full-Stack Web Development with React Specialization](https://www.coursera.org/specializations/full-stack-react)
-    - [Server-side Development with NodeJS, Express and MongoDB](https://www.coursera.org/specializations/full-stack-react)
-    - Plan to finish at Jun 30
-- [Computer Architecture](https://www.coursera.org/learn/comparch)
-#### Fall 2021
 - [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation)
     - [Configuration Management and the Cloud](https://www.coursera.org/learn/configuration-management-cloud?specialization=google-it-automation#syllabus)
     - [Automating Real-World Tasks with Python](https://www.coursera.org/learn/automating-real-world-tasks-python?specialization=google-it-automation#syllabus)
@@ -40,9 +39,11 @@ I'm not good at English. Please send PR if there is anything wrong.
 - [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation)
     - [Crash Course in Python](https://www.coursera.org/account/accomplishments/verify/ZTAWNP7ZJJX3)
     - [Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/verify/HTVXBF8MQ4WD)
+    - [Using Python to Interact with the Operating System](https://coursera.org/share/f93911f3841d78deb7fc5354274bd518)
 ## 所有課程 / All Courses
 - Introdution to Computer Science
     - [Fundamentals of Computing Specialization](https://www.coursera.org/specializations/computer-fundamentals#instructors)
+    - [計算機概論](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/101S210)
 - Cybersecurity
     - [Introduction to Cyber Security Specialization](https://www.coursera.org/specializations/intro-cyber-security?)
     - [Computer Security and Systems Management Specialization](https://www.coursera.org/specializations/computer-security-systems-management)
