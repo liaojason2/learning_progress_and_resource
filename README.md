@@ -82,5 +82,26 @@ I'm not good at English. Please send PR if there is anything wrong.
 - Database
     - [Learn SQL Basics for Data Science Specialization](https://www.coursera.org/specializations/learn-sql-basics-data-science)
      - [Database systems Specialization](https://www.coursera.org/specializations/database-systems)
+- Psychology
+    - Book
+        - [心理學與生活](https://www.books.com.tw/products/0010630959)
+        - [快思慢想](https://www.books.com.tw/products/0010780181)
+    - Video
+        - [Introduction to Psychology](https://www.coursera.org/learn/introduction-psychology) 
+- Philosophy
+    - Book
+        - [正義 一場思辨之旅](https://www.books.com.tw/products/0010497671)
+        - [成功的反思](https://www.books.com.tw/products/0010881907?sloc=main)
+        - [錢買不到的東西](https://www.books.com.tw/products/0010867773?sloc=main)
+        - [西方哲學之旅](https://www.books.com.tw/products/0010856672?sloc=main)
+        - [政治哲學](https://www.sanmin.com.tw/Product/index/007274081)
+        - [道德哲學](https://www.books.com.tw/products/CN11653868)
+- Neuroscience
+    - Book 
+        - [大腦解密手冊](https://www.books.com.tw/products/0010738920?loc=P_asv_001) 
+        - [外科醫生與瘋狂大腦決鬥的傳奇：神經學奇案500年，世界最古怪病症的不思議之旅](https://www.books.com.tw/products/0010793216)
+        - [大腦先生的一天：從起床開始的思緒與工作，腦力如何幫助我們做好（或搞砸）每件事？](https://www.books.com.tw/products/0010749712?loc=P_038_004)
+    - Video
+        - [大腦與認知科學](https://www.youtube.com/playlist?list=PLj6E8qlqmkFvVm2ygVpkUJRYA4b1zNFq7)
 
        
