@@ -82,6 +82,21 @@ I'm not good at English. Please send PR if there is anything wrong.
 - Database
     - [Learn SQL Basics for Data Science Specialization](https://www.coursera.org/specializations/learn-sql-basics-data-science)
      - [Database systems Specialization](https://www.coursera.org/specializations/database-systems)
+- Linear Algebra
+    - Book
+        - [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](http://vmls-book.stanford.edu/)   
+    - Video
+        - [NTU Hung-yi Lee 線性代數](https://www.youtube.com/playlist?list=PLJV_el3uVTsNmr39gwbyV-0KjULUsN7fW)   
+        - [Complete linear algebra: theory and implementation in code](https://www.udemy.com/course/linear-algebra-theory-and-implementation/)
+- Calculus
+    - Video
+        - [莊重 微積分一](https://www.youtube.com/playlist?list=PLj6E8qlqmkFtwDlDoBnbyhCfAa7JL52OG)
+        - [莊重 微積分二](https://www.youtube.com/playlist?list=PLj6E8qlqmkFv-kcqx88N4wUk4oLU3fSOk)
+        - [高淑蓉 微積分一](https://www.youtube.com/playlist?list=PLS0SUwlYe8czw04JGine76IzoHc1MM8bO)
+        - [高淑蓉 微積分二](https://www.youtube.com/playlist?list=PLS0SUwlYe8cycqv8Ma6c3K3QhkX9s8-De)
+        - [Become a Calculus 1 Master](https://www.udemy.com/course/calculus1/)
+        - [Become a Calculus 2 Master](https://www.udemy.com/course/calculus-2/)
+        - [Become a Calculus 3 Master](https://www.udemy.com/course/calculus-3/) 
 - Psychology
     - Book
         - [心理學與生活](https://www.books.com.tw/products/0010630959)
