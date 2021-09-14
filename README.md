@@ -34,7 +34,6 @@ I'm not good at English. Please send PR if there is anything wrong.
 
 - [Django for Everybody Specialization
 ](https://www.coursera.org/specializations/django)
-
 - [Architecting with Google Kubernetes Engine Specialization](https://www.coursera.org/specializations/architecting-google-kubernetes-engine)
 
 ### 已完成 / Completed
