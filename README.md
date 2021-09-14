@@ -22,6 +22,7 @@ I'm not good at English. Please send PR if there is anything wrong.
   - [Troubleshooting and Debugging Techniques](https://www.coursera.org/learn/troubleshooting-debugging-techniques?specialization=google-it-automation#syllabus)
   - [Configuration Management and the Cloud](https://www.coursera.org/learn/configuration-management-cloud?specialization=google-it-automation#syllabus)
   - [Automating Real-World Tasks with Python](https://www.coursera.org/learn/automating-real-world-tasks-python?specialization=google-it-automation#syllabus)
+  - Plan to finish at February.
 
 ### 未來 / Future
 
@@ -31,10 +32,9 @@ I'm not good at English. Please send PR if there is anything wrong.
 - [計算機概論](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/101S210)
 
 #### Fall / Winter 2022
-
+- [Programming with Google Go Specialization](https://www.coursera.org/specializations/google-golang)
 - [Django for Everybody Specialization
 ](https://www.coursera.org/specializations/django)
-
 - [Architecting with Google Kubernetes Engine Specialization](https://www.coursera.org/specializations/architecting-google-kubernetes-engine)
 
 ### 已完成 / Completed
