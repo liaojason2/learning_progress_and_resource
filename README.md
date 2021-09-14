@@ -8,29 +8,39 @@ I decided to put my CSIE and programming learning progress in this documents aft
 
 I'm not good at English. Please send PR if there is anything wrong.
 ## 課程安排 / Study Plan
-### 現在 / In Progress
 #### Learning Goal
+
 - Known all of the knowledge and skill of a Full-stack Engineer.
 - Discover new helpful tool for develop. (Container, CI/CD)
-- Intro to developing Mobile app.
-#### Spring / Summer 2021
-- Introducing to Cybersecurity / NTUST
-- Programming for Embedded Systems / NTUST
-- [Front-End Web Development with React](https://www.coursera.org/learn/front-end-react)
-- [Front-End JavaScript Frameworks: Angular](https://www.coursera.org/learn/angular#instructors)
-    - Plan to finish at June 7
-- [Server-side Development with NodeJS, Express and MongoDB](https://www.coursera.org/specializations/full-stack-react)
-    - Plan to finish at July 31
-- [Troubleshooting and Debugging Techniques](https://www.coursera.org/learn/troubleshooting-debugging-techniques?specialization=google-it-automation#syllabus)
+- Finish [homeschool study plan](https://1drv.ms/b/s!AvzPB9-7mc8hgRw2NEL2Yz5gr9Vy?e=pfr0LA).
+
+#### Fall / Winter 2021
+- [Full-Stack Web Development with React Specialization](https://www.coursera.org/specializations/full-stack-react)
+- [Full-Stack Web Development with Angular Specialization](https://www.coursera.org/specializations/full-stack-mobile-app-development?)
+  - Plan to finish at October.
+- [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation)
+  - [Troubleshooting and Debugging Techniques](https://www.coursera.org/learn/troubleshooting-debugging-techniques?specialization=google-it-automation#syllabus)
+  - [Configuration Management and the Cloud](https://www.coursera.org/learn/configuration-management-cloud?specialization=google-it-automation#syllabus)
+  - [Automating Real-World Tasks with Python](https://www.coursera.org/learn/automating-real-world-tasks-python?specialization=google-it-automation#syllabus)
+
 ### 未來 / Future
-#### Fall 2021
+
+#### Spring / Summer 2022
+
+- [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
+- [計算機概論](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/101S210)
+
+#### Fall / Winter 2022
+
 - [Django for Everybody Specialization
 ](https://www.coursera.org/specializations/django)
-- [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation)
-    - [Configuration Management and the Cloud](https://www.coursera.org/learn/configuration-management-cloud?specialization=google-it-automation#syllabus)
-    - [Automating Real-World Tasks with Python](https://www.coursera.org/learn/automating-real-world-tasks-python?specialization=google-it-automation#syllabus)
+
 - [Architecting with Google Kubernetes Engine Specialization](https://www.coursera.org/specializations/architecting-google-kubernetes-engine)
+
 ### 已完成 / Completed
+
+- Introducing to Cybersecurity / NTUST
+- Programming for Embedded Systems / NTUST
 - [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation)
     - [Crash Course in Python](https://coursera.org/share/9b4c6d67d65a26aade5e18f8f7b63741)   
     - [Introduction to Git and GitHub](https://coursera.org/share/adf2a12fb54a49ea25a2293a693e5730)
@@ -60,6 +70,8 @@ I'm not good at English. Please send PR if there is anything wrong.
         - [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course?utm_source=gDigital&utm_medium=website&utm_campaign=gwgsite-gDigitial-ownedemail-marchannouncement-)
     - Swift
         - [Swift 5 iOS Application Developer Specialization](https://www.coursera.org/specializations/swift-5-ios-app-developer)
+    - Go
+      - [Programming with Google Go Specialization](https://www.coursera.org/specializations/google-golang)
 - Google IT Certificate
     - [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
     - [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation)
