@@ -3,7 +3,7 @@
 
 ###### tags: `CSIE` `IT` `Online Courses` `Coursera`
 
-This document organize courses on Coursera I wanted to learn, created in Summer 2020.
+This document organize courses on Coursera I want to learn, created in Summer 2020.
 
 I decided to put my CSIE and programming learning progress in this documents after I become homeschooling student.
 
